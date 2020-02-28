@@ -1,0 +1,3 @@
+# Plane Game
+
+Playing the plane game by pygame ...
